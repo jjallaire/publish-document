@@ -1,0 +1,8 @@
+- source: document.qmd
+  netlify:
+    - id: 23e42085-d0e1-4ff7-a69b-9f3856ead681
+      url: 'https://scintillating-starburst-8d8807.netlify.app'
+  connect:
+    - id: b4b14844-9aaf-443c-9403-d47fe32b853a
+      url: >-
+        https://beta.rstudioconnect.com/content/b4b14844-9aaf-443c-9403-d47fe32b853a/
